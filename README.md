@@ -12,3 +12,6 @@ of different skin diseases, facilitating early diagnosis and treatment. To enhan
 model's interpretability, GradCAM is employed to generate heatmaps that highlight the
 regions of interest within the lesion images, showcasing the areas crucial for
 classification decisions.
+
+DATASET:
+ISIC 2017 (https://drive.google.com/drive/folders/1P9_TWYXIGHx3sHnHk1MttFWj8IgBF8ec?usp=sharing)
